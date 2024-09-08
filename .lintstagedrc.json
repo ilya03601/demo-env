@@ -1,0 +1,6 @@
+{
+    "*.js": [
+        "npx eslint --fix"
+    ],
+    "*.{html, js, css}": "prettier --write"
+}
